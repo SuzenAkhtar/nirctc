@@ -1,0 +1,7 @@
+﻿Babel==2.13.1
+customtkinter==5.2.1
+darkdetect==0.8.0
+packaging==23.2
+Pillow==10.1.0
+setuptools==68.2.2
+tkcalendar==1.6.1
